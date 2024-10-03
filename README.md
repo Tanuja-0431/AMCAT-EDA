@@ -35,7 +35,7 @@ The project is structured as follows:
     *   Outlier Detection: Identifying and handling outliers using box plots and histograms.
   
 4.  **Conclusions:** Summarizing the key insights and recommendations based on the analysis.
-5.    additional model development too using SHAP and save the model 
+5.    additional model development too , using SHAP and save the model 
 
 # Research Questions
 
